@@ -1,6 +1,6 @@
 {
   "projects": {
-    "shopping": ["jsonlint@1.6.0","yaml-front-matter@4.1.0"],
+    "shopping": ["jsonlint@1.6.1","yaml-front-matter@4.1.0"],
     "checkout": ["jsonlint@1.6.0","yaml-front-matter@4.1.0"]
   }
 }
